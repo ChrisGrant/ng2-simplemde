@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@types/simplemde": "^1.11.7",
-    "simplemde": "^1.11.2"
+    "simplemde": "git://github.com/ChrisGrant/simplemde-markdown-editor#a2a1e3690f39ab3fb04bc454582c49514a54e029"
   },
   "peerDependencies": {
     "@angular/common": ">=5.0.0",
